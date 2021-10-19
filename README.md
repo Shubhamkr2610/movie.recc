@@ -1,4 +1,5 @@
-here you can check movie IMDB rating and compare
+here you can check movie IMDB rating and compare.
+
 this repository is made in javascript, html,css with the help of react.js in codesandbox
 
 
